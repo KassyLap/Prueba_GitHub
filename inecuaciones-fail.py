@@ -15,4 +15,7 @@ p1 = [2, 4, 6]
 p2 = [1, 0, 4]
 
 print("Suma manual:", sumaFormula(p1, p2))
+
 print("Suma con numpy:", sumaNumpy(p1, p2))
+
+print("Hola Mundo")
